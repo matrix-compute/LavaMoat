@@ -10,6 +10,6 @@
   "private": true,
   "dependencies": {
     "lavamoat-browserify": "file:../../../../..",
-    "metamask-logo": "^2.2.1"
+    "metamask-logo": "^2.5.0"
   }
 }

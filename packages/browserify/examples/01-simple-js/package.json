@@ -2,7 +2,7 @@
   "devDependencies": {
     "browserify": "^17.0.0",
     "lavamoat-browserify": "file:../../../../..",
-    "serve": "^14.2.0"
+    "serve": "^14.2.4"
   },
   "scripts": {
     "lavamoat": "AUTOCONFIG=1 node ./build.js",
